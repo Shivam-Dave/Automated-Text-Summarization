@@ -1,6 +1,7 @@
 # Automated Text Summarization
 
-This repository contains code for training and evaluating models for automated text summarization using deep learning techniques. It includes preprocessing steps, model training, evaluation on test data, and utilities for tokenization and sequence padding.
+
+The "Automated Text Summarization" repository hosts scripts for building and evaluating deep learning models that automate text summarization tasks. Using LSTM-based sequence-to-sequence models, it preprocesses and tokenizes datasets like CNN/Daily Mail, trains models for summarization, and evaluates them on test sets. The repository provides functionalities for training, testing, and evaluating model performance, supporting efficient text summarization tasks in natural language processing applications.
 
 ## Features
 
