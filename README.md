@@ -36,7 +36,17 @@ The "Automated Text Summarization" repository hosts scripts for building and eva
   ```bash
   python train_model.py
   ```
-## Usage
+4.**Dataset :**
+
+The project uses the following dataset:
+
+- Dataset Name: CNN/Daily Mail Dataset
+- Size: Approximately 530 MB
+
+To download the dataset, please visit [Kaggle CNN/Daily Mail Dataset](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail).
+
+
+ ## Usage
 
 1. Prepare your dataset in CSV format with 'article' and 'highlights' columns.
 2. Adjust model parameters and hyperparameters in the scripts as needed.
